@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on 
 - 📫 Feel free to contact my Instagram : fur_chive
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I am hardworking
 
 <!---
